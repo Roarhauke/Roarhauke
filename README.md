@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Roarhauke
-- 👀 I’m interested in esolang's, scripting, programming.
-- 🌱 I’m currently learning python, basic, cobol, bassicaly every language
-- 💞️ I’m looking to collaborate on I.D.K
-- 📫 How to reach me ...
+*V O I D*
 
 <!---
 Roarhauke/Roarhauke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
