@@ -1,4 +1,4 @@
-*V O I D*
+im a programmer who is bad at sticking to projects. im currently working on [LINEN](https://github.com/Roarhauke/linen).
 
 <!---
 Roarhauke/Roarhauke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
